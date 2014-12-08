@@ -1,0 +1,10 @@
+/.pydevproject
+/.project
+*.pyc
+*~
+media/*
+build/
+src/
+static/.sass-cache/
+static/css
+collectedstatic/*
